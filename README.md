@@ -1,1 +1,2 @@
 # Spotify_Data_Analysis
+This project analyzes the most-streamed songs on Spotify, exploring trends in streaming over time. The goal is to understand how song features, release timing, and artist popularity influence streaming counts and chart performance. The analysis includes both descriptive statistics and visualizations that track how these features evolve year over year, as well as how they correlate with streaming success.
